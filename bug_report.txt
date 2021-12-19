@@ -1,1 +1,8 @@
-
+{
+  "id":"1",
+  "Title":"Главная страница: ошибка "endpoint retired" при открытии",
+  "STR":
+	"1. перейти на https://megaburger.ru/",
+  "Expected result":"Открылась главная страница",
+  "Result":"Открылась главная страница, открылось вплывающее окно This endpoint has been retired"
+}
