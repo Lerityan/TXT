@@ -1,0 +1,5 @@
+{
+"fio":"Gushchin Ivan Alexandrovich",
+"age":"27",
+"pets count":"2",
+"expexted salary":"1000"}
