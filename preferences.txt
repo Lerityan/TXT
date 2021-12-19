@@ -1,0 +1,9 @@
+{ 
+"preferences":{
+		"movie":"none",
+		"tvseries":"Generation Kill",
+		"food":"none",
+		"season":"autumn",
+		"country":"Ukraine"
+		}	
+}
